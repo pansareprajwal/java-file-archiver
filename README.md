@@ -34,4 +34,4 @@ Prajwal Sanjay Pansare
 
 GitHub: [@pansareprajwal](https://github.com/pansareprajwal)
 
-LinkedIn: Prajwal Pansare
+LinkedIn: [Prajwal Pansare](https://www.linkedin.com/in/prajwalpansare/)
