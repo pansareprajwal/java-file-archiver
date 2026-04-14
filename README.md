@@ -33,6 +33,6 @@ java SecureFilePacker
 👨‍💻 Author
 Prajwal Sanjay Pansare
 
-GitHub: @pansareprajwal
+GitHub: [@pansareprajwal](https://github.com/pansareprajwal)
 
 LinkedIn: Prajwal Pansare
