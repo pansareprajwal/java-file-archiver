@@ -28,7 +28,6 @@ The **Secure File Packer & Unpacker** is a Java-based utility designed to consol
 3. Compile the Java file:
    ```bash
    javac SecureFilePacker.java
-java SecureFilePacker
 
 👨‍💻 Author
 Prajwal Sanjay Pansare
