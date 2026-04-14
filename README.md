@@ -29,8 +29,8 @@ The **Secure File Packer & Unpacker** is a Java-based utility designed to consol
    ```bash
    javac SecureFilePacker.java
 
-###👨‍💻 Author
-* Prajwal Sanjay Pansare
+### 👨‍💻 Author 
+Prajwal Sanjay Pansare
 
 GitHub: [@pansareprajwal](https://github.com/pansareprajwal)
 
